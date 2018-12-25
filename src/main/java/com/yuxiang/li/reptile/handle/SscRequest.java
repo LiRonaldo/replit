@@ -33,7 +33,7 @@ public class SscRequest {
 
     @Scheduled(cron = "0 4,14,24,34,44,54 10-21 * * ?")
     public void handle() {
-        System.out.println("-----------10点之前-------------");
+        System.out.println("-----------10点之前------------");
         try {
             int i;
             Document doc = Jsoup.connect(address).timeout(5000).get();

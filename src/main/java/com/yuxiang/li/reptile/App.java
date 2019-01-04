@@ -15,6 +15,8 @@ public class App {
 
     public static void main(String[] args) {
         SpringApplication.run(App.class, args);
+              System.out.println("dev-23332");
+              System.out.println("1111111111");
     }
 }
 

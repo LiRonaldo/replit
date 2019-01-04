@@ -17,7 +17,7 @@ public class App {
         SpringApplication.run(App.class, args);
               System.out.println("dev-23332");
               System.out.println("1111111111");
-        System.out.println("添加合并信息");
+        System.out.println("添加合并信息2");
     }
 }
 

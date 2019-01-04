@@ -15,7 +15,7 @@ public class App {
 
     public static void main(String[] args) {
         SpringApplication.run(App.class, args);
-        System.out.println("dev-10-10");
+        System.out.println("dev-10-10-10");
     }
 }
 

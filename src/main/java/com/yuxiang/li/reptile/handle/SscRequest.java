@@ -46,7 +46,7 @@ public class SscRequest {
                     break;
                 }
             }
-            System.out.println("第"+i+1+"把");
+            System.out.println("第"+i+"把");
                 //6个数
                 if (i > 5 && i < 12) {
                     int j = i - 1;
